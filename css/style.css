@@ -31,6 +31,10 @@ body {
  padding-left: 20px;
 }
 
-h1{
-	color: orange;
+label {
+	font-size: 16px;
+}
+
+label input {
+	margin-left: 10px;
 }
